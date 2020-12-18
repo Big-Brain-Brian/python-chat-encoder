@@ -21,3 +21,4 @@ HOW TO USE
 	Then type the text you want to encode / decode
 	Type e for encoding or d for decoding
 	Then it will output your encoded / decoded text!
+ 
