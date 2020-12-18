@@ -13,6 +13,7 @@
   Then open up the file in a text editor
   Then paste the new key in the first key variable entry area
   Repeat this until all previous keys are filled in
+  
 /!\ HOW TO USE CONTINUED /!\
  Now that the keys are set up you can get to encoding!
  Simply close and reopen the program and type anything but yes into the prompt
